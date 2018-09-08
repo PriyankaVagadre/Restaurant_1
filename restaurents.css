@@ -1,0 +1,83 @@
+body{
+    background-color: #999999;
+}
+.col1{
+    background-color: darkcyan;
+    height: 500px;
+    color:azure;
+}
+.col2{
+    background-color: chocolate;
+    height: 500px;
+}
+.node {
+    cursor: pointer;
+}
+
+.node circle {
+    fill: #fff;
+    stroke: #6769b4;
+    stroke-width: 3px;
+}
+
+.node text {
+    font: 12px sans-serif;
+}
+
+.link {
+    fill: none;
+    stroke: #ccc;
+    stroke-width: 2px;
+}
+.padding{
+    padding-top: 40px;
+
+}
+
+.black{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.img:hover {
+    border: 1px solid #777;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+.cen{
+    text-align: center;
+}
+
+.hover{
+    color: #000;
+}
+.black1{
+    color: #000;;
+}
+.border{
+    border-width: 5px;
+    border-color:white;
+}
+.form{
+    padding: 10px;
+    text-align: justify;
+    color: white;
+}
+.justi{
+    text-align: justify;
+}
